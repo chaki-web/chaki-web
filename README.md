@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janethra</h1>
-<h3 align="center">Game | Code | Repeat</h3>
+<h3 align="center">Sleep | Eat | Code | Repeat</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaki-web" alt="chaki-web" /></a> </p>
 
