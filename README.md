@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janethra Bandara</h1>
 <h3 align="center">Sleep | Eat | Code | Repeat</h3>
 <h2>Let's seek around here</h2>
+<h2>Hello!</h2>
 </br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaki-web" alt="chaki-web" /></a> </p>
@@ -12,8 +13,7 @@
 - ⚡ Fun fact **Depressed LOL :)**
 
 - But we need no Changes LOL XD XOXO
-- HAHAHA
-- HAHAHA Not LOL
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/janethra bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janethra bandara" height="30" width="40" /></a>
