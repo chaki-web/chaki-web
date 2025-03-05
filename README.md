@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=F7B42C&center=true&vCenter=true&multiline=true&lines=%E2%9C%A8+Hello,+I'm+Janethra!+%F0%9F%91%8B;🚀+Software+Engineer+%7C+UI%2FUX+Designer+%7C+Video+Editor;🎨+Creative+Thinker+%7C+Tech+Enthusiast;📈+Always+Learning+%7C+Building+Something+Awesome!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&color=FF5733&center=true&vCenter=true&multiline=true&lines=%F0%9F%92%A1+Hey+there,+I'm+Janethra!+%F0%9F%91%8B;🚀+Software+Engineer+%7C+UI%2FUX+Designer+%7C+Video+Editor;🎨+Creative+Thinker+%7C+Tech+Enthusiast;🔥+Turning+Ideas+into+Reality!" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="600">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="600">
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ## 🚀 Latest Projects
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300">
 </p>
 
 - 🔹 **Personal Portfolio Website** 🌐 [(View)](https://github.com/your-portfolio-link)
@@ -34,11 +34,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janethra&show_icons=true&theme=radical" width="600">
+  <img src="https://github-readme-stats.vercel.app/api?username=Janethra&show_icons=true&theme=tokyonight" width="600">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Janethra&theme=radical&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Janethra&theme=dracula&no-bg=true&margin-w=15" />
 </p>
 
 ---
@@ -64,10 +64,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" width="400">
 </p>
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-</p>
