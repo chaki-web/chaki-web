@@ -1,274 +1,43 @@
-# ✨ Janethra | Software Engineer & Digital Creator
+<h1 align="center">Hi 👋, I'm Janethra Dissanayake</h1>
+<h3 align="center">A passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
 
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaki-web&label=Profile%20views&color=0e75b6&style=flat" alt="chaki-web" /> </p>
 
-![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge&logo=vercel)
-![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-Latest-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaki-web" alt="chaki-web" /></a> </p>
 
-**🔮 Digital Polymath** | **🎓 Software Engineering @ NSBM** | **🎨 UI/UX Architect** | **✍️ Content Artisan**
+- 🔭 I’m currently working on [Do.LK Mobile Application Development Project!!!](https://github.com/chaki-web/Do.lk-Digital-Freelance-Marketplace.git)
 
-[Live Demo](https://lovable.dev) • [Contact Me](mailto:hello@janethra.dev) • [LinkedIn](https://linkedin.com/in/janethra)
+- 🌱 I’m currently learning **ReactJS, Next.js, React Native**
 
-</div>
+- 👯 I’m looking to collaborate on **any project related development and designing.**
 
----
+- 🤝 I’m looking for help with **Backend Development Projects.**
 
-## 🌟 About This Project
+- 👨‍💻 All of my projects are available at [https://myportfolio-five-gilt.vercel.app/](https://myportfolio-five-gilt.vercel.app/)
 
-A modern, responsive portfolio website showcasing my journey as a software engineer and digital creator. Built with cutting-edge technologies and designed with a focus on user experience, performance, and visual appeal.
+- 📫 How to reach me **janethradissanayake@gmail.com**
 
-### 🎯 Key Highlights
+- ⚡ Fun fact **I think I'm obsessed with CODING!**
 
-- **🎨 Modern Design System** - Dark theme with purple/cyan gradients and smooth animations
-- **📱 Fully Responsive** - Optimized for all devices and screen sizes
-- **⚡ Performance Optimized** - Built with Vite for lightning-fast loading
-- **🎭 Interactive UI** - Engaging animations and micro-interactions
-- **📊 Impact-Focused** - Showcases quantifiable business results and user impact
-- **♿ Accessible** - WCAG compliant with semantic HTML and proper ARIA labels
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/chakigg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chakigg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/janethra-d-35273b254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janethra-d-35273b254" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19907010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19907010" height="30" width="40" /></a>
+<a href="https://codesandbox.com/chaki-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="chaki-web" height="30" width="40" /></a>
+<a href="https://fb.com/janethra dissnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janethra dissnayake" height="30" width="40" /></a>
+<a href="https://instagram.com/chakii.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chakii.gg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/janethradissana1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="janethradissana1" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## 🚀 Features
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/janethradissanayake"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="janethradissanayake" /></a></p><br><br>
 
-### 🏠 Hero Section
-- Dynamic typing animation with rotating taglines
-- Floating elements and gradient backgrounds
-- Social links and prominent call-to-action buttons
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaki-web&show_icons=true&locale=en&layout=compact" alt="chaki-web" /></p>
 
-### 👤 About Section
-- Personal story and professional journey
-- Interactive timeline of career milestones
-- Core values and development philosophy
-- Key statistics and achievements
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaki-web&show_icons=true&locale=en" alt="chaki-web" /></p>
 
-### 🛠️ Skills Arsenal
-- Interactive skill level indicators
-- Technology categories with hover effects
-- Experience duration for each technology
-- Comprehensive tech stack showcase
-
-### 💼 Featured Projects
-- Detailed project cards with business impact metrics
-- Technology stacks and key achievements
-- Real-world results (32% NPS increase, 2M+ users impacted)
-- Links to live demos and source code
-
-### 📬 Contact Section
-- Multiple contact methods
-- Professional contact form
-- Social media integration
-- Availability and response time indicators
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- **React 18.3.1** - Modern React with hooks and functional components
-- **TypeScript** - Type-safe development with full IntelliSense
-- **Tailwind CSS** - Utility-first CSS framework with custom design system
-- **Vite** - Lightning-fast build tool and development server
-
-### UI Components
-- **Radix UI** - Accessible, unstyled UI primitives
-- **shadcn/ui** - Beautiful, customizable component library
-- **Lucide React** - Modern icon system
-- **Framer Motion** - Smooth animations and transitions
-
-### Styling & Design
-- **Custom Design System** - Semantic color tokens and consistent spacing
-- **CSS Grid & Flexbox** - Modern layout techniques
-- **CSS Custom Properties** - Dynamic theming capabilities
-- **Responsive Design** - Mobile-first approach
-
-### Development Tools
-- **ESLint** - Code linting and quality enforcement
-- **React Router** - Client-side routing
-- **React Query** - Server state management
-- **TypeScript Config** - Strict type checking
-
----
-
-## 🎨 Design Philosophy
-
-### Color Palette
-```css
-/* Modern tech gradient theme */
---primary: 263 70% 50%;        /* Deep purple */
---primary-glow: 280 100% 70%;  /* Bright purple */
---accent: 192 100% 67%;        /* Cyan blue */
---accent-glow: 300 100% 75%;   /* Magenta */
-```
-
-### Typography
-- **Primary Font**: Inter - Clean, modern sans-serif
-- **Mono Font**: JetBrains Mono - Developer-friendly monospace
-
-### Animations
-- Smooth micro-interactions with spring physics
-- Performance-optimized CSS animations
-- Accessibility-conscious reduced motion support
-
----
-
-## 🚀 Quick Start
-
-### Prerequisites
-- Node.js 18+ and npm
-- Git
-
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/Janethra/portfolio.git
-cd portfolio
-```
-
-2. **Install dependencies**
-```bash
-npm install
-```
-
-3. **Start development server**
-```bash
-npm run dev
-```
-
-4. **Open in browser**
-```
-http://localhost:8080
-```
-
-### Build for Production
-```bash
-npm run build
-npm run preview
-```
-
----
-
-## 📁 Project Structure
-
-```
-src/
-├── components/           # Reusable UI components
-│   ├── ui/              # shadcn/ui components
-│   ├── HeroSection.tsx  # Landing hero section
-│   ├── AboutSection.tsx # About and journey
-│   ├── SkillsSection.tsx# Skills and technologies
-│   ├── ProjectsSection.tsx # Featured projects
-│   └── ContactSection.tsx # Contact form and info
-├── pages/               # Page components
-│   ├── Index.tsx        # Main portfolio page
-│   └── NotFound.tsx     # 404 error page
-├── hooks/               # Custom React hooks
-├── lib/                 # Utility functions
-├── assets/              # Static assets
-└── index.css           # Global styles and design system
-```
-
----
-
-## 🎯 Performance Metrics
-
-- **Lighthouse Score**: 95+ across all categories
-- **First Contentful Paint**: < 1.2s
-- **Largest Contentful Paint**: < 2.5s
-- **Bundle Size**: Optimized with tree-shaking
-- **Mobile Performance**: 90+ score
-
----
-
-## 🌱 Future Enhancements
-
-- [ ] Blog section with MDX support
-- [ ] Dark/Light theme toggle
-- [ ] Animation preferences settings
-- [ ] Multi-language support
-- [ ] Advanced contact form with backend integration
-- [ ] Project filtering and search
-- [ ] Skills endorsement system
-- [ ] Interactive 3D elements
-
----
-
-## 🤝 Contributing
-
-While this is a personal portfolio, I welcome feedback and suggestions! Feel free to:
-
-1. **Report Issues** - Found a bug? Let me know!
-2. **Suggest Features** - Have ideas for improvements?
-3. **Code Review** - Feedback on code quality is always appreciated
-
-### Development Guidelines
-- Follow the existing code style and conventions
-- Write meaningful commit messages
-- Test thoroughly across different devices
-- Maintain accessibility standards
-
----
-
-## 📊 Project Stats
-
-- **Lines of Code**: ~2,500
-- **Components**: 15+ reusable components
-- **Animations**: 10+ custom keyframe animations
-- **Responsive Breakpoints**: 5 optimized sizes
-- **Performance Score**: 95+ Lighthouse rating
-
----
-
-## 🎖️ Recognition & Impact
-
-### Real-World Results
-- **BOC Digital Transformation**: 32% NPS improvement, 2M+ users
-- **Kapruka UX Optimization**: 28% conversion rate increase
-- **Mindful App**: 10K+ downloads, 4.8★ rating
-
-### Professional Achievements
-- Enterprise-scale project leadership
-- Mentoring junior developers
-- Open source contributions
-- Design system architecture
-
----
-
-## 📬 Get In Touch
-
-I'm always excited to connect with fellow developers, designers, and tech enthusiasts!
-
-**Professional**
-- 📧 Email: [hello@janethra.dev](mailto:hello@janethra.dev)
-- 💼 LinkedIn: [Janethra Ravishan](https://linkedin.com/in/janethra)
-- 🐙 GitHub: [@Janethra](https://github.com/Janethra)
-
-**Social**
-- 🐦 Twitter: [@janethra_dev](https://twitter.com/janethra_dev)
-- 🎨 Dribbble: [Janethra](https://dribbble.com/janethra)
-
-**Currently**
-- 🎓 Software Engineering @ NSBM Green University
-- 🌍 Based in Colombo, Sri Lanka
-- ⚡ Available for freelance projects
-- 🤝 Open to collaboration opportunities
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<div align="center">
-
-**"We don't just write code - we compose digital symphonies where every semicolon has purpose"** 🎼
-
-⭐ Star this repo if you found it interesting!
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Janethra.portfolio)
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaki-web&" alt="chaki-web" /></p>
