@@ -44,9 +44,9 @@
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SanuliGehara&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=chaki-web&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" alt="GitHub Stats" />
       <br />
-      <img src="https://streak-stats.demolab.com?user=SanuliGehara&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=chaki-web&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SanuliGehara&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=6" alt="Top Languages" />
