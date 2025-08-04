@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/janethra-d-35273b254/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="35" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@geharasanuli5" target="_blank">
+  <a href="" target="_blank">
     <img src="https://github.com/user-attachments/assets/41aaa46e-5f40-43b2-94cd-c384c8438b1b" height="35" width="40" alt="Medium" />
   </a>
 </p>
